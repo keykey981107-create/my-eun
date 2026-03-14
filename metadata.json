@@ -1,0 +1,5 @@
+{
+  "name": "카드 뒤집기 게임 (Memory Match)",
+  "description": "다양한 난이도의 그리드에서 같은 짝의 카드를 찾는 기억력 게임입니다.",
+  "requestFramePermissions": []
+}
